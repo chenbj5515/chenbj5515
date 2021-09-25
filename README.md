@@ -8,7 +8,7 @@
 * 😾 补习JS基础
 * 🪡 学习工具链相关知识
 
-## 🤩 我
+## 我
 
 
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=chenbj5515&show_icons=true&hide_border=true&theme=material-palenight" />
@@ -20,6 +20,6 @@
 - 电邮：chenbj55150220@gmail.com ✉️
 
 
-## 📖 文章
+## 文章
 
 * [掘金](https://juejin.cn/user/1187128290318056/posts)
