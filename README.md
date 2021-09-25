@@ -4,7 +4,7 @@
 
 * 👀 学习React原理
 * 📖 刷LeetCode
-* ✍️  写一个deom level的React
+* ✍️  写一个tiny react
 * 😾 补习JS基础
 * 🪡 学习工具链相关知识
 
