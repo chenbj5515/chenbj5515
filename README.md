@@ -2,13 +2,14 @@
 
 <img  align="right" height="130" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=chenbj5515&layout=compact&hide_border=true&theme=material-palenight" />
 
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=chenbj5515&show_icons=true&hide_border=true&theme=material-palenight" />
+
 * 👀 学习全栈开发知识
 * 📖 开发个人博客网站
 
 ## 我
 
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=chenbj5515&show_icons=true&hide_border=true&theme=material-palenight" />
 
 哈喽，我是chenbj.🌻
 
